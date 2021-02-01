@@ -1,0 +1,9 @@
+c:\users\vefa\documents\visual studio 2015\Projects\elfcell\elfcell\bin\Debug\elfcell.exe.config
+c:\users\vefa\documents\visual studio 2015\Projects\elfcell\elfcell\bin\Debug\elfcell.exe
+c:\users\vefa\documents\visual studio 2015\Projects\elfcell\elfcell\bin\Debug\elfcell.pdb
+c:\users\vefa\documents\visual studio 2015\Projects\elfcell\elfcell\obj\Debug\elfcell.csprojResolveAssemblyReference.cache
+c:\users\vefa\documents\visual studio 2015\Projects\elfcell\elfcell\obj\Debug\elfcell.Form1.resources
+c:\users\vefa\documents\visual studio 2015\Projects\elfcell\elfcell\obj\Debug\elfcell.Properties.Resources.resources
+c:\users\vefa\documents\visual studio 2015\Projects\elfcell\elfcell\obj\Debug\elfcell.csproj.GenerateResource.Cache
+c:\users\vefa\documents\visual studio 2015\Projects\elfcell\elfcell\obj\Debug\elfcell.exe
+c:\users\vefa\documents\visual studio 2015\Projects\elfcell\elfcell\obj\Debug\elfcell.pdb
